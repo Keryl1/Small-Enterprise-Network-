@@ -6,7 +6,7 @@ This document describes the design and implementation of a small enterprise netw
 The enterprise network consists of the following components:
 -  Domain Controller (DC)
 -  DNS Server (hosted on the DC)
--  HCP Server (hosted on the DC)
+-  DHCP Server (hosted on the DC)
 -  Linux Server (domain-joined)
 -  Windows Client Workstations (domain-joined)
 -  Organizational Unit (OU): Toronto
